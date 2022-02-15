@@ -3171,7 +3171,7 @@ msgstr "PHP alterado com sucesso para: "
 #: websiteFunctions/templates/websiteFunctions/launchChild.html:538
 #: websiteFunctions/templates/websiteFunctions/website.html:795
 msgid "Files"
-msgstr "Ficheiros"
+msgstr "Arquivos"
 
 #: emailMarketing/templates/emailMarketing/website.html:863
 #: emailMarketing/templates/emailMarketing/website.html:866
@@ -3183,7 +3183,7 @@ msgstr "Ficheiros"
 #: websiteFunctions/templates/websiteFunctions/website.html:803
 #: websiteFunctions/templates/websiteFunctions/website.html:804
 msgid "File Manager"
-msgstr "Gestor de Ficheiros"
+msgstr "Gerenciador de arquivos"
 
 #: emailMarketing/templates/emailMarketing/website.html:874
 #: emailMarketing/templates/emailMarketing/website.html:877
@@ -3643,23 +3643,23 @@ msgstr "Recarregar"
 #, fuzzy
 #| msgid "File"
 msgid "New File"
-msgstr "Ficheiro"
+msgstr "Novo Arquivo"
 
 #: filemanager/templates/filemanager/index.html:64
 msgid "New Folder"
-msgstr ""
+msgstr "Nova pasta"
 
 #: filemanager/templates/filemanager/index.html:70
 #: filemanager/templates/filemanager/index.html:557
 #: filemanager/templates/filemanager/index.html:693
 msgid "Copy"
-msgstr ""
+msgstr "Copiar"
 
 #: filemanager/templates/filemanager/index.html:73
 #: filemanager/templates/filemanager/index.html:522
 #: filemanager/templates/filemanager/index.html:691
 msgid "Move"
-msgstr ""
+msgstr "Mover"
 
 #: filemanager/templates/filemanager/index.html:76
 #: filemanager/templates/filemanager/index.html:587
@@ -3667,20 +3667,20 @@ msgstr ""
 #, fuzzy
 #| msgid "Username"
 msgid "Rename"
-msgstr "Nome de Utilizador"
+msgstr "Renomear"
 
 #: filemanager/templates/filemanager/index.html:82
 #: filemanager/templates/filemanager/index.html:432
 #: filemanager/templates/filemanager/index.html:459
 #: filemanager/templates/filemanager/index.html:697
 msgid "Compress"
-msgstr ""
+msgstr "Compactar"
 
 #: filemanager/templates/filemanager/index.html:85
 #: filemanager/templates/filemanager/index.html:487
 #: filemanager/templates/filemanager/index.html:698
 msgid "Extract"
-msgstr ""
+msgstr "Extrair"
 
 #: filemanager/templates/filemanager/index.html:88
 msgid "Fix Permissions"
@@ -3727,7 +3727,7 @@ msgstr "Tamanho"
 
 #: filemanager/templates/filemanager/index.html:160
 msgid "Last Modified"
-msgstr ""
+msgstr "Última modificação"
 
 #: filemanager/templates/filemanager/index.html:161
 msgid "Permissions"
@@ -3735,7 +3735,7 @@ msgstr "Permissões"
 
 #: filemanager/templates/filemanager/index.html:181
 msgid "Upload File"
-msgstr ""
+msgstr "Upar arquivo"
 
 #: filemanager/templates/filemanager/index.html:181
 #, fuzzy
@@ -3749,27 +3749,27 @@ msgstr ""
 
 #: filemanager/templates/filemanager/index.html:188
 msgid "Queue length:"
-msgstr ""
+msgstr "Fila de upload"
 
 #: filemanager/templates/filemanager/index.html:192
 msgid "Drop"
-msgstr ""
+msgstr "Soltar"
 
 #: filemanager/templates/filemanager/index.html:193
 msgid "Drop Files here to upload them."
-msgstr ""
+msgstr "Solte os arquivos aqui para carregá-los"
 
 #: filemanager/templates/filemanager/index.html:205
 msgid "Progress"
-msgstr ""
+msgstr "Progresso"
 
 #: filemanager/templates/filemanager/index.html:233
 msgid "Remove"
-msgstr ""
+msgstr "Remover"
 
 #: filemanager/templates/filemanager/index.html:243
 msgid "Queue progress:"
-msgstr ""
+msgstr "Progresso da fila"
 
 #: filemanager/templates/filemanager/index.html:252
 msgid "can not be uploaded, Error message:"
@@ -3777,7 +3777,7 @@ msgstr "não pode ser carregado, mensagem de erro:"
 
 #: filemanager/templates/filemanager/index.html:256
 msgid "Upload all"
-msgstr ""
+msgstr "Upar tudo"
 
 #: filemanager/templates/filemanager/index.html:259
 #, fuzzy
@@ -3787,7 +3787,7 @@ msgstr "Criar Backup"
 
 #: filemanager/templates/filemanager/index.html:262
 msgid "Remove all"
-msgstr ""
+msgstr "Remover tudo"
 
 #: filemanager/templates/filemanager/index.html:298
 #, fuzzy
@@ -3814,17 +3814,17 @@ msgstr "Criar nova pasta!"
 #, fuzzy
 #| msgid "File Name"
 msgid "New Folder Name"
-msgstr "Nome do Ficheiro"
+msgstr "Nome da pasta"
 
 #: filemanager/templates/filemanager/index.html:332
 msgid "Folder will be created in your current directory"
-msgstr ""
+msgstr "A pasta será criada no seu diretório atual"
 
 #: filemanager/templates/filemanager/index.html:334
 #, fuzzy
 #| msgid "Create User"
 msgid "Create Folder"
-msgstr "Criar Utilizador"
+msgstr "Criar pasta"
 
 #: filemanager/templates/filemanager/index.html:347
 msgid "Folder Successfully created."
@@ -3838,12 +3838,12 @@ msgstr "Criar novo arquivo!"
 #, fuzzy
 #| msgid "File Name"
 msgid "New File Name"
-msgstr "Nome do Ficheiro"
+msgstr "Nome do arquivo"
 
 #: filemanager/templates/filemanager/index.html:376
 msgid ""
 "File will be created in your current directory, if it already exists it will not overwirte."
-msgstr ""
+msgstr "O arquivo será criado em seu diretório atual, se já existir não será substituído"
 
 #: filemanager/templates/filemanager/index.html:378
 #, fuzzy
@@ -3861,13 +3861,13 @@ msgstr "Confirme a exclusão!"
 
 #: filemanager/templates/filemanager/index.html:440
 msgid "List of files/folder!"
-msgstr ""
+msgstr "Lista de arquivos/pasta"
 
 #: filemanager/templates/filemanager/index.html:444
 #, fuzzy
 #| msgid "File Name"
 msgid "Compressed File Name"
-msgstr "Nome do Ficheiro"
+msgstr "Nome do arquivo compactado"
 
 #: filemanager/templates/filemanager/index.html:446
 msgid "Enter without extension name!"
@@ -3875,15 +3875,15 @@ msgstr "Digite o nome sem a extensão!"
 
 #: filemanager/templates/filemanager/index.html:450
 msgid "Compression Type"
-msgstr ""
+msgstr "Tipo de compressão"
 
 #: filemanager/templates/filemanager/index.html:475
 msgid "Extracting"
-msgstr ""
+msgstr "Extraindo"
 
 #: filemanager/templates/filemanager/index.html:483
 msgid "Extract in"
-msgstr ""
+msgstr "Extrair em"
 
 #: filemanager/templates/filemanager/index.html:485
 msgid "You can enter . to extract in current directory!"
@@ -3893,48 +3893,48 @@ msgstr ""
 #, fuzzy
 #| msgid "Files"
 msgid "Move Files"
-msgstr "Ficheiros"
+msgstr "Mover arquivos"
 
 #: filemanager/templates/filemanager/index.html:511
 #: filemanager/templates/filemanager/index.html:546
 msgid "List of files/folders!"
-msgstr ""
+msgstr "Lista de arquivos/pastas!"
 
 #: filemanager/templates/filemanager/index.html:515
 msgid "Move to"
-msgstr ""
+msgstr "Mover para"
 
 #: filemanager/templates/filemanager/index.html:517
 msgid "Enter a path to move your files!"
-msgstr ""
+msgstr "Digite um caminho para mover seus arquivos!"
 
 #: filemanager/templates/filemanager/index.html:538
 #, fuzzy
 #| msgid "Files"
 msgid "Copy Files"
-msgstr "Ficheiros"
+msgstr "Copiar arquivo"
 
 #: filemanager/templates/filemanager/index.html:550
 msgid "Copy to"
-msgstr ""
+msgstr "Copiar para"
 
 #: filemanager/templates/filemanager/index.html:552
 msgid "Enter a path to copy your files to!"
-msgstr ""
+msgstr "Digite um caminho para copiar seus arquivos para!"
 
 #: filemanager/templates/filemanager/index.html:572
 msgid "Renaming"
-msgstr ""
+msgstr "Renomeado"
 
 #: filemanager/templates/filemanager/index.html:580
 #, fuzzy
 #| msgid "File Name"
 msgid "New Name"
-msgstr "Nome do Ficheiro"
+msgstr "Nome do arquivo"
 
 #: filemanager/templates/filemanager/index.html:582
 msgid "Enter new name of file!"
-msgstr ""
+msgstr "Digite o novo nome do arquivo!"
 
 #: filemanager/templates/filemanager/index.html:602
 msgid "Changing permissions for"
@@ -3942,59 +3942,59 @@ msgstr "Alterando permissões para"
 
 #: filemanager/templates/filemanager/index.html:611
 msgid "Mode"
-msgstr ""
+msgstr "Modo"
 
 #: filemanager/templates/filemanager/index.html:612
 #: serverStatus/templates/serverStatus/topProcesses.html:193
 #, fuzzy
 #| msgid "Users"
 msgid "User"
-msgstr "Utilizadores"
+msgstr "Usuario"
 
 #: filemanager/templates/filemanager/index.html:613
 msgid "Group"
-msgstr ""
+msgstr "Grupo"
 
 #: filemanager/templates/filemanager/index.html:614
 msgid "World"
-msgstr ""
+msgstr "Mundo"
 
 #: filemanager/templates/filemanager/index.html:619
 msgid "Read"
-msgstr ""
+msgstr "Ler"
 
 #: filemanager/templates/filemanager/index.html:625
 msgid "Write"
-msgstr ""
+msgstr "Gravar"
 
 #: filemanager/templates/filemanager/index.html:631
 msgid "Execute"
-msgstr ""
+msgstr "Executar"
 
 #: filemanager/templates/filemanager/index.html:647
 #: filemanager/templates/filemanager/index.html:695
 #, fuzzy
 #| msgid "Select PHP Version"
 msgid "Change Permissions"
-msgstr "Selecione Versão do PHP"
+msgstr "Mudar permissões"
 
 #: filemanager/templates/filemanager/index.html:648
 #, fuzzy
 #| msgid "Select PHP Version"
 msgid "Change Recursively"
-msgstr "Selecione Versão do PHP"
+msgstr "Mudar recursivamente"
 
 #: filemanager/templates/filemanager/index.html:692
 msgid "Download"
-msgstr ""
+msgstr "Baixar"
 
 #: firewall/templates/firewall/csf.html:3
 msgid "CSF (ConfigServer Security and Firewall) - CyberPanel"
-msgstr ""
+msgstr "Firewall CSF - CyberPanel"
 
 #: firewall/templates/firewall/csf.html:13
 msgid "CSF (ConfigServer Security and Firewall)!"
-msgstr ""
+msgstr "CSF Firwall"
 
 #: firewall/templates/firewall/csf.html:14
 #, fuzzy
@@ -4004,7 +4004,7 @@ msgstr "Nesta página, pode definir os seus destinos de backups. (SFTP)"
 
 #: firewall/templates/firewall/csf.html:28
 msgid "CSF is not installed "
-msgstr ""
+msgstr "CSF Firewall não instalado"
 
 #: firewall/templates/firewall/csf.html:55
 msgid "CSF successfully installed, refreshing page in 3 seconds.."
@@ -4016,39 +4016,39 @@ msgstr ""
 
 #: firewall/templates/firewall/csf.html:90
 msgid "General"
-msgstr ""
+msgstr "Geral"
 
 #: firewall/templates/firewall/csf.html:100
 msgid "LFD"
-msgstr ""
+msgstr "LFD"
 
 #: firewall/templates/firewall/csf.html:109
 msgid "Remove CSF"
-msgstr ""
+msgstr "Remover CSF"
 
 #: firewall/templates/firewall/csf.html:112
 msgid "Completely Remove CSF"
-msgstr ""
+msgstr "CSF Removido"
 
 #: firewall/templates/firewall/csf.html:126
 msgid "Testing Mode"
-msgstr ""
+msgstr "Modo de teste"
 
 #: firewall/templates/firewall/csf.html:133
 msgid "TCP IN Ports"
-msgstr ""
+msgstr "TCP - Porta de entrada"
 
 #: firewall/templates/firewall/csf.html:143
 msgid "TCP Out Ports"
-msgstr ""
+msgstr "TCP - Porta de saida"
 
 #: firewall/templates/firewall/csf.html:153
 msgid "UDP In Ports"
-msgstr ""
+msgstr "UDP - Porta de entrada"
 
 #: firewall/templates/firewall/csf.html:163
 msgid "UDP Out Ports"
-msgstr ""
+msgstr "UDP - Porta de saida"
 
 #: firewall/templates/firewall/csf.html:181
 #, fuzzy
@@ -4080,7 +4080,7 @@ msgid ""
 "mentioned below)"
 msgstr ""
 "Nesta página podes adicionar/apagar regras para a firewall. (Por defeito todas as portas "
-"estão bloqueados, excepto as mencionadas em baixo)"
+"estão bloqueados, exceto as mencionadas em baixo)"
 
 #: firewall/templates/firewall/firewall.html:19
 msgid "Add/Delete Rules"
@@ -4120,7 +4120,7 @@ msgstr "Administre a segurança do servidor nesta página."
 #, fuzzy
 #| msgid "Security - CyberPanel"
 msgid "ModSecurity - CyberPanel"
-msgstr "Segurança - CyberPaneç"
+msgstr "Segurança - CyberPanel"
 
 #: firewall/templates/firewall/modSecurity.html:14
 #: firewall/templates/firewall/modSecurity.html:208
@@ -4154,13 +4154,13 @@ msgstr "Segurança"
 #: firewall/templates/firewall/modSecurityRulesPacks.html:28
 #: firewall/templates/firewall/spamassassin.html:29
 msgid "ModSecurity is not installed "
-msgstr ""
+msgstr "ModSecurity não está instalado"
 
 #: firewall/templates/firewall/modSecurity.html:61
 #: firewall/templates/firewall/modSecurity.html:257
 #: firewall/templates/firewall/spamassassin.html:55
 msgid "ModSecurity successfully installed, refreshing page in 3 seconds.."
-msgstr ""
+msgstr "ModSecurity instalado com sucesso, atualizando pagina em 3 segundos"
 
 #: firewall/templates/firewall/modSecurity.html:73
 #: firewall/templates/firewall/modSecurity.html:269
@@ -4184,7 +4184,7 @@ msgstr "Configurações do ModSecurity salvas com sucesso."
 #, fuzzy
 #| msgid "Security - CyberPanel"
 msgid "ModSecurity Rules - CyberPanel"
-msgstr "Segurança - CyberPaneç"
+msgstr "Segurança - CyberPanel"
 
 #: firewall/templates/firewall/modSecurityRules.html:13
 msgid "ModSecurity Rules!"
@@ -4202,7 +4202,7 @@ msgstr "Salvar regras!"
 
 #: firewall/templates/firewall/modSecurityRules.html:49
 msgid "ModSecurity Rules Saved"
-msgstr ""
+msgstr "ModSecurity regras salva"
 
 #: firewall/templates/firewall/modSecurityRules.html:58
 msgid "Could not save rules, Error message: "
@@ -4212,7 +4212,7 @@ msgstr "Não foi possível salvar as regras, mensagem de erro: "
 #, fuzzy
 #| msgid "Security - CyberPanel"
 msgid "ModSecurity Rules Packs - CyberPanel"
-msgstr "Segurança - CyberPaneç"
+msgstr "Segurança - CyberPanel"
 
 #: firewall/templates/firewall/modSecurityRulesPacks.html:13
 #: firewall/templates/firewall/modSecurityRulesPacks.html:20
@@ -4221,7 +4221,7 @@ msgstr "Pacotes de regras do ModSecurity!"
 
 #: firewall/templates/firewall/modSecurityRulesPacks.html:14
 msgid "Install/Un-install ModSecurity rules packages."
-msgstr ""
+msgstr "Instalar/Remover pacote de regras do ModSecurity"
 
 #: firewall/templates/firewall/modSecurityRulesPacks.html:60
 #: firewall/templates/firewall/modSecurityRulesPacks.html:71
@@ -4235,7 +4235,7 @@ msgstr "Configurações"
 #, fuzzy
 #| msgid "Action successful."
 msgid "Operation successful."
-msgstr "Ação com sucesso."
+msgstr "Operação realizada com sucesso."
 
 #: firewall/templates/firewall/modSecurityRulesPacks.html:92
 msgid "Operation failed, Error message: "
@@ -4249,7 +4249,7 @@ msgstr ""
 #, fuzzy
 #| msgid "File Name"
 msgid "Filename"
-msgstr "Nome do Ficheiro"
+msgstr "Nome do arquivo"
 
 #: firewall/templates/firewall/secureSSH.html:3
 msgid "Secure SSH - CyberPanel"
@@ -4322,11 +4322,11 @@ msgstr ""
 #: ftp/templates/ftp/createFTPAccount.html:26 ftp/templates/ftp/deleteFTPAccount.html:25
 #: ftp/templates/ftp/listFTPAccounts.html:26
 msgid "PureFTPD is disabled."
-msgstr ""
+msgstr "PureFTPD está desabilitado"
 
 #: ftp/templates/ftp/createFTPAccount.html:67
 msgid "FTP Password"
-msgstr "Palavra-Chave FTP"
+msgstr "Senha FTP"
 
 #: ftp/templates/ftp/createFTPAccount.html:90
 msgid "Path (Relative)"
@@ -4334,7 +4334,7 @@ msgstr "Caminho (Relativo)"
 
 #: ftp/templates/ftp/createFTPAccount.html:92
 msgid "Leave empty to select default home directory."
-msgstr ""
+msgstr "Deixe em branco para selecionar o diretório inicial padrão"
 
 #: ftp/templates/ftp/createFTPAccount.html:105
 msgid "Create FTP"
@@ -4406,22 +4406,22 @@ msgstr ""
 
 #: ftp/templates/ftp/listFTPAccounts.html:124
 msgid "Directory"
-msgstr "Directório"
+msgstr "Diretório"
 
 #: mailServer/templates/mailServer/changeEmailPassword.html:3
 msgid "Change Email Password - CyberPanel"
-msgstr "Alterar Palavra-Chave de E-Mail - CyberPanel"
+msgstr "Alterar senha de E-Mail - CyberPanel"
 
 #: mailServer/templates/mailServer/changeEmailPassword.html:12
 #: mailServer/templates/mailServer/changeEmailPassword.html:19
 #: userManagment/templates/userManagment/createACL.html:299
 #: userManagment/templates/userManagment/modifyACL.html:303
 msgid "Change Email Password"
-msgstr "Alterar Palavra-Chave de E-Mail"
+msgstr "Alterar senha de E-Mail"
 
 #: mailServer/templates/mailServer/changeEmailPassword.html:13
 msgid "Select a website from the list, to change its password."
-msgstr "Selecione um website da lista, para alterar a sua palavra-chave."
+msgstr "Selecione um website da lista, para alterar a sua senha."
 
 #: mailServer/templates/mailServer/changeEmailPassword.html:27
 #: mailServer/templates/mailServer/createEmailAccount.html:27
@@ -4429,7 +4429,7 @@ msgstr "Selecione um website da lista, para alterar a sua palavra-chave."
 #: mailServer/templates/mailServer/emailForwarding.html:26
 #: mailServer/templates/mailServer/listEmails.html:27
 msgid "Postfix is disabled."
-msgstr ""
+msgstr "Postfix está desabilitado"
 
 #: mailServer/templates/mailServer/changeEmailPassword.html:58
 #: mailServer/templates/mailServer/deleteEmailAccount.html:58
@@ -4444,7 +4444,7 @@ msgstr "Impossível apagar conta de e-mail. Mensagem de erro:"
 
 #: mailServer/templates/mailServer/changeEmailPassword.html:111
 msgid "Password successfully changed for :"
-msgstr "Palavra-Chave alterada com sucesso para :"
+msgstr "Senha alterada com sucesso para :"
 
 #: mailServer/templates/mailServer/changeEmailPassword.html:118
 #: mailServer/templates/mailServer/deleteEmailAccount.html:102
@@ -4501,7 +4501,7 @@ msgstr "Esta página pode ser usada para fazer backup dos seus websites"
 
 #: mailServer/templates/mailServer/dkimManager.html:27
 msgid "OpenDKIM is not installed. "
-msgstr ""
+msgstr "OpenDKIM não instalado"
 
 #: mailServer/templates/mailServer/dkimManager.html:28
 #: websiteFunctions/templates/websiteFunctions/installJoomla.html:67
@@ -4514,7 +4514,7 @@ msgstr "Instalar"
 
 #: mailServer/templates/mailServer/dkimManager.html:48
 msgid "OpenDKIM successfully installed, refreshing page in 3 seconds.."
-msgstr ""
+msgstr "OpenDKIM instalado com sucesso, atualizando a pagina em 3 segundos"
 
 #: mailServer/templates/mailServer/dkimManager.html:97
 #, fuzzy
@@ -4524,7 +4524,7 @@ msgstr "Atualmente nenhuma conta de e-mail existe para este domínio."
 
 #: mailServer/templates/mailServer/dkimManager.html:98
 msgid "Generate Now"
-msgstr ""
+msgstr "Gerar agora"
 
 #: mailServer/templates/mailServer/dkimManager.html:110
 #: websiteFunctions/templates/websiteFunctions/setupStaging.html:37
@@ -4535,11 +4535,11 @@ msgstr "Nome de Domínio"
 
 #: mailServer/templates/mailServer/dkimManager.html:111
 msgid "Private Key"
-msgstr ""
+msgstr "Chave Privada"
 
 #: mailServer/templates/mailServer/dkimManager.html:112
 msgid "Public Key"
-msgstr ""
+msgstr "Chave publica"
 
 #: mailServer/templates/mailServer/emailForwarding.html:3
 #, fuzzy
@@ -4554,11 +4554,11 @@ msgstr ""
 
 #: mailServer/templates/mailServer/emailForwarding.html:12
 msgid "Forwarding Docs"
-msgstr ""
+msgstr "Configurar encaminhamento de e-mail"
 
 #: mailServer/templates/mailServer/emailForwarding.html:13
 msgid "This page help you setup email forwarding for your emails."
-msgstr ""
+msgstr "Esta página ajuda você a configurar o encaminhamento de e-mail para seus e-mails."
 
 #: mailServer/templates/mailServer/emailForwarding.html:87
 #: mailServer/templates/mailServer/emailForwarding.html:108
@@ -5178,7 +5178,7 @@ msgstr "Estado do Servidor - CyberPanel"
 
 #: serverStatus/templates/serverStatus/index.html:14
 msgid "View LiteSpeed status and log files."
-msgstr "Ver o estado e ficheiros de log do LiteSpeed."
+msgstr "Ver o estado e arquivos de log do LiteSpeed."
 
 #: serverStatus/templates/serverStatus/index.html:41
 #, fuzzy
@@ -5267,7 +5267,7 @@ msgstr ""
 #, fuzzy
 #| msgid "File Manager"
 msgid "License Manager"
-msgstr "Gestor de Ficheiros"
+msgstr "Gerenciador de arquivos"
 
 #: serverStatus/templates/serverStatus/litespeedStatus.html:299
 #: serverStatus/templates/serverStatus/litespeedStatus.html:303
@@ -6197,7 +6197,7 @@ msgstr "Deixe em branco para instalar no diretório inicial do site. (Sem barra 
 
 #: websiteFunctions/templates/websiteFunctions/launchChild.html:29
 msgid "Copy/Sync to Master"
-msgstr ""
+msgstr "Copiar/Sincronizar para o principal"
 
 #: websiteFunctions/templates/websiteFunctions/launchChild.html:670
 #: websiteFunctions/templates/websiteFunctions/launchChild.html:675
